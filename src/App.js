@@ -1,9 +1,9 @@
 import "./App.css";
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Checkout from "./Pages/Checkout";
-import PaymentMethod from "./Pages/PaymentMethod";
-import SuccessPage from "./Pages/SuccessPage";
+import Checkout from "./pages/Checkout";
+import PaymentMethod from "./pages/PaymentMethod";
+import SuccessPage from "./pages/SuccessPage";
 
 function App() {
   return (
